@@ -21,12 +21,23 @@ Part I: Set Up VS Code
 
 
 
-2. Download Git into VS Code and Connecting
+Part II: Download Git into VS Code and Connecting
   
   Step 1: Download Git
   Using this link:..., students will be able to download the git for their VS Code and on the link, download the latest version of GIT.
 
 
+  Step 2: Head down to VS Code and then hit "Ctrl", "Shift", and "P" simultaneously. Then type in "Terminal: Select Default Profile", which should produce different terminal options. Be sure to click Git Bash.
+  
+  
+  For more info on setting up, follow this link: https://stackoverflow.com/a/50527994
+  
 
-3. Testing the program
+Part III: Testing the program
  
+   Step 1: Logging in
+   First, copy and paste (or type) this in to the terminal: ssh cs15lsp23zz@ieng6.ucsd.edu. Then, replace the zz with the 2 letters in the account (if you have one, if not, follow this link: https://sdacs.ucsd.edu/~icc/index.php to form your CSE 15L password).
+   
+   Step 2: Leading to the workspace
+   If the terminal flashes
+   
