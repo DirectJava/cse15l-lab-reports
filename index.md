@@ -9,14 +9,14 @@ Part I: Set Up VS Code
   In order to set up VS Code, students need to download java first in order to have VS Code working functionally while coding
   Website: https://www.oracle.com/java/technologies/downloads/  
   
-  ! [Image] (Screenshot (36).png)
+  ![Image](https://github.com/DirectJava/cse15l-lab-reports/blob/main/Screenshot%20(37).png)
   
   If students are on the mac, click on the mac tab to select files. For windows, it's the same thing, but instead click on the windows tab. It is recommended that students should download the latest version. In this case, use Java 20 and then click on "x64 Installer" (if on Windows) or "x64 DMG Installer" (if on Mac).
   
   Step 2: Download the VS Code
   To download VS Code, follow this link https://code.visualstudio.com/Download. Then click on Mac (if using Mac) or Windows (if using Windows).
   
-  ! [Image] (Screenshot (37).png)
+  ![Image](Screenshot (37).png)
   
 
 
