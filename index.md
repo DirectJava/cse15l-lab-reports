@@ -10,7 +10,7 @@ Part I: Set Up VS Code (Skip this if you have VS Code Already)
   
   By the time I reached this page, I selected Java 20, then clicked on the "x64 Installer to download the extension. I went ahead and downloaded the latest version in order to get the best experience possible while programming.
   
-  *Caution: Since I find it complicated to set up my computer to acommodate Java and I could remember much what I done, I am unable to discuss what I did here. 
+  *Caution: Since I find it complicated to set up my computer to acommodate Java and I don't remember much what I done, I am unable to discuss what I did here. 
   
   Step 3: Download the VS Code
   To download VS Code, I used this link https://code.visualstudio.com/Download. Then, I selected Windows because that's what I am currently using..
