@@ -25,10 +25,10 @@ Part II: Download Git into VS Code and Connecting
   
   Step 1: Download Git
   Using this link:..., students will be able to download the git for their VS Code and on the link, download the latest version of GIT.
-[Image](https://github.com/DirectJava/cse15l-lab-reports/blob/main/Screenshot%20(38).png)
+![Image](https://github.com/DirectJava/cse15l-lab-reports/blob/main/Screenshot%20(38).png)
 
   Step 2: Head down to VS Code and then hit "Ctrl", "Shift", and "P" simultaneously. Then type in "Terminal: Select Default Profile", which should produce different terminal options. Be sure to click Git Bash.
-[Image](https://github.com/DirectJava/cse15l-lab-reports/blob/main/Screenshot%20(39).png)
+![Image](https://github.com/DirectJava/cse15l-lab-reports/blob/main/Screenshot%20(39).png)
   
   For more info on setting up, follow this link: https://stackoverflow.com/a/50527994
   
@@ -38,7 +38,7 @@ Part III: Testing the program
    Step 1: Logging in
    First, copy and paste (or type) this in to the terminal: ssh cs15lsp23zz@ieng6.ucsd.edu. Then, replace the zz with the 2 letters in the account (if you have one, if not, follow this link: https://sdacs.ucsd.edu/~icc/index.php to form your CSE 15L password).
    
-   [Image](https://github.com/DirectJava/cse15l-lab-reports/blob/main/Screenshot%20(40).png)
+   ![Image](https://github.com/DirectJava/cse15l-lab-reports/blob/main/Screenshot%20(40).png)
    Disclaimer: Your account may not work with "-202" as the network may be fixed in the future
    
    Once successfully logged in, you should have this message: The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established.
@@ -49,10 +49,10 @@ Then, click yes in order to continue the work space as it will shown in Step 2.
 
    Step 2: Leading to the workspace
    In this step, you will be able to test cases to see what outcomes can we get out of what we learned in the 1st 2 lectures. In order to do that, test by inputting commands shown in this photo:
-   [Image](https://github.com/DirectJava/cse15l-lab-reports/blob/main/Screenshot%20(41).png)
+   ![Image](https://github.com/DirectJava/cse15l-lab-reports/blob/main/Screenshot%20(41).png)
    
    Here is another example:
-   [Image](https://github.com/DirectJava/cse15l-lab-reports/blob/main/Screenshot%20(42).png)
+   ![Image](https://github.com/DirectJava/cse15l-lab-reports/blob/main/Screenshot%20(42).png)
    
    
    Disclaimer: This instructions may not be perfect. If you are still struggling with any steps, be sure to contact Professor Joe Politz (jpolitz@ucsd.edu) or reach out to the TAs.
