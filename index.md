@@ -39,7 +39,7 @@ Part III: Testing the program
    First, copy and paste (or type) this in to the terminal: ssh cs15lsp23zz@ieng6.ucsd.edu. Then, replace the zz with the 2 letters in the account (if you have one, if not, follow this link: https://sdacs.ucsd.edu/~icc/index.php to form your CSE 15L password).
    
    ![Image](https://github.com/DirectJava/cse15l-lab-reports/blob/main/Screenshot%20(40).png)
-   Disclaimer: Your account may not work with "-202" as the network may be fixed in the future
+   Disclaimer: Your account may not work with "-202" after the "ieng6" as the network may be fixed in the future
    
    Once successfully logged in, you should have this message: The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established.
 RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec.
