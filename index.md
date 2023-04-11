@@ -1,20 +1,19 @@
 CSE 15L First Timers Tutorial (Windows)
 
-Before taking CSE 15L, you may need to take CSE 8A, then CSE 8B/11 in order to take this course. While taking this course, you also need to take CSE 12 alongside (if you are able to). If you are in CSE 15L, then we will be using Java as part of the programming language and VS code as a coding platform. In this tutorial, we will be guiding students on how to set up in order to work in CSE 15L.
-
-
 Part I: Set Up VS Code (Skip this if you have VS Code Already)
 
   Step 1: Download java extension
-  In order to set up VS Code, students need to download java first in order to have VS Code working functionally while coding
+  In order to set up VS Code, I had to download java first in order to have VS Code working functionally while coding
   Website: https://www.oracle.com/java/technologies/downloads/  
   
   ![Image](https://github.com/DirectJava/cse15l-lab-reports/blob/main/Screenshot%20(36).png)
   
-  By the time you reach this page, select Java 20, then click on the "x64 Installer to download the extension. It is recommended that you should download the latest version of Java whether it's a 20 (during the time this instruction was written) or any future latest Java software that comes after.
+  By the time I reached this page, I selected Java 20, then clicked on the "x64 Installer to download the extension. I went ahead and downloaded the latest version in order to get the best experience possible while programming.
+  
+  *Caution: Since I find it complicated to set up my computer to acommodate Java and I could remember much what I done, I am unable to discuss what I did here. 
   
   Step 3: Download the VS Code
-  To download VS Code, follow this link https://code.visualstudio.com/Download. Then click on Mac (if using Mac) or Windows (if using Windows).
+  To download VS Code, I used this link https://code.visualstudio.com/Download. Then, I selected Windows because that's what I am currently using..
   
   ![Image](https://github.com/DirectJava/cse15l-lab-reports/blob/main/Screenshot%20(37).png)
   
@@ -24,36 +23,37 @@ Part I: Set Up VS Code (Skip this if you have VS Code Already)
 Part II: Download Git into VS Code and Connecting
   
   Step 1: Download Git
-  Using this link:..., students will be able to download the git for their VS Code and on the link, download the latest version of GIT.
+  Using this link: https://gitforwindows.org/, I was able to download git for my VS Code and on the link, I managed to download the latest version of GIT.
 ![Image](https://github.com/DirectJava/cse15l-lab-reports/blob/main/Screenshot%20(38).png)
 
-  Step 2: Head down to VS Code and then hit "Ctrl", "Shift", and "P" simultaneously. Then type in "Terminal: Select Default Profile", which should produce different terminal options. Be sure to click Git Bash.
+  Step 2: I headed down to VS Code and then I hit "Ctrl", "Shift", and "P" simultaneously. Then I typed in "Terminal: Select Default Profile", which should produce different terminal options. I also clicked Git Bash.
 ![Image](https://github.com/DirectJava/cse15l-lab-reports/blob/main/Screenshot%20(39).png)
   
-  For more info on setting up, follow this link: https://stackoverflow.com/a/50527994
+  For additional help, I followed this link: https://stackoverflow.com/a/50527994
   
 
 Part III: Testing the program
  
    Step 1: Logging in
-   First, copy and paste (or type) this in to the terminal: ssh cs15lsp23zz@ieng6.ucsd.edu. Then, replace the zz with the 2 letters in the account (if you have one, if not, follow this link: https://sdacs.ucsd.edu/~icc/index.php to form your CSE 15L password).
+   First, I copied and pasted (or typed) this in to the terminal: ssh cs15lsp23zz@ieng6.ucsd.edu. Then, I replaced the zz with the 2 letters in the account (if I have one, if not, follow this link: https://sdacs.ucsd.edu/~icc/index.php to form my new CSE 15L password).
    
    ![Image](https://github.com/DirectJava/cse15l-lab-reports/blob/main/Screenshot%20(40).png)
-   Disclaimer: Your account may not work with "-202" after the "ieng6" as the network may be fixed in the future
+   Disclaimer: My account did not work witout the "-202" after the "ieng6" because the network system was not cooperating.
    
-   Once successfully logged in, you should have this message: The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established.
+   Once I successfully logged in, this message displayed on my screen: The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established.
 RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec.
 Are you sure you want to continue connecting (yes/no/[fingerprint])? 
 
-Then, click yes in order to continue the work space as it will shown in Step 2.
+I clicked yes in order to continue the work space as it will shown in Step 2.
 
    Step 2: Leading to the workspace
-   In this step, you will be able to test cases to see what outcomes can we get out of what we learned in the 1st 2 lectures. In order to do that, test by inputting commands shown in this photo:
+   In this step, my job is to test cases to see what outcomes can we get out of what we learned in the 1st 2 lectures. In order to do that, I tested by inputting commands shown in this photo:
    ![Image](https://github.com/DirectJava/cse15l-lab-reports/blob/main/Screenshot%20(41).png)
    
    Here is another example:
    ![Image](https://github.com/DirectJava/cse15l-lab-reports/blob/main/Screenshot%20(42).png)
    
-   
+   Other functions such as ls <directory> or other ls functions, I was unable to get it work because I either did it wrong or I wasn't sure what the instructions were saying. 
+  
    Disclaimer: This instructions may not be perfect. If you are still struggling with any steps, be sure to contact Professor Joe Politz (jpolitz@ucsd.edu) or reach out to the TAs.
    
