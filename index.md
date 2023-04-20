@@ -26,7 +26,7 @@ Part II: Download Git into VS Code and Connecting
 ![image](https://user-images.githubusercontent.com/122843554/233444954-bda8bbe9-c15e-46eb-9e8c-67bfd4cb0e1f.png)
 
   Step 2: I headed down to VS Code and then I hit "Ctrl", "Shift", and "P" simultaneously. Then I typed in "Terminal: Select Default Profile", which should produce different terminal options. I also clicked Git Bash.
-![Image](https://github.com/DirectJava/cse15l-lab-reports/blob/main/Screenshot%20(39).png)
+![image](https://user-images.githubusercontent.com/122843554/233445225-1b377fce-bfa3-4e8c-a072-dd793a01c7b0.png)
   
   For additional help, I followed this link: https://stackoverflow.com/a/50527994
   
@@ -36,7 +36,7 @@ Part III: Testing the program
    Step 1: Logging in
    First, I copied and pasted (or typed) this in to the terminal: `ssh cs15lsp23zz@ieng6.ucsd.edu. Then, I replaced the zz with the 2 letters in the account (if I have one, if not, follow this link: https://sdacs.ucsd.edu/~icc/index.php to form my new CSE 15L password).
    
-   ![Image](https://github.com/DirectJava/cse15l-lab-reports/blob/main/Screenshot%20(40).png)
+![image](https://user-images.githubusercontent.com/122843554/233445383-a8ae8a9f-58c4-4691-8bdb-260ee8bfe1fb.png)
    Disclaimer: My account did not work witout the "-202" after the "ieng6" because the network system was not cooperating.
    
    Once I successfully logged in, this message displayed on my screen: The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established.
@@ -47,10 +47,10 @@ I clicked yes in order to continue the work space as it will shown in Step 2.
 
    Step 2: Leading to the workspace
    In this step, my job is to test cases to see what outcomes can we get out of what we learned in the 1st 2 lectures. In order to do that, I tested by inputting commands shown in this photo:
-   ![Image](https://github.com/DirectJava/cse15l-lab-reports/blob/main/Screenshot%20(41).png)
+![image](https://user-images.githubusercontent.com/122843554/233445562-6a640366-6b93-4f76-a8e5-3662666b0aff.png)
    
    Here is another example:
-   ![Image](https://github.com/DirectJava/cse15l-lab-reports/blob/main/Screenshot%20(42).png)
+![image](https://user-images.githubusercontent.com/122843554/233445624-80a551c7-66bd-42c9-9bea-fbaf50ca85ed.png)
    
    I tried other functions such as ls <directory> or other ls functions, which is supposed to show all the files I have on hand (and including the ones in the root folder). However, I was unable to get it work because I either did it wrong or I wasn't sure what the instructions were saying. 
   
