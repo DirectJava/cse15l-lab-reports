@@ -14,7 +14,7 @@ Part I: Set Up VS Code (Skip this if you have VS Code Already)
   Step 3: Download the VS Code
   To download VS Code, I used this link https://code.visualstudio.com/Download. Then, I selected Windows because that's what I am currently using.
   
-  ![Image](https://github.com/DirectJava/cse15l-lab-reports/blob/main/Screenshot%20(37).png)
+ ![image](https://user-images.githubusercontent.com/122843554/233444850-aae3ff22-b1e3-4eb6-a472-0ee6747ec2a1.png)
   
 
 
@@ -23,7 +23,7 @@ Part II: Download Git into VS Code and Connecting
   
   Step 1: Download Git
   Using this link: https://gitforwindows.org/, I was able to download git for my VS Code and on the link, I managed to download the latest version of GIT.
-![Image](https://github.com/DirectJava/cse15l-lab-reports/blob/main/Screenshot%20(38).png)
+![image](https://user-images.githubusercontent.com/122843554/233444954-bda8bbe9-c15e-46eb-9e8c-67bfd4cb0e1f.png)
 
   Step 2: I headed down to VS Code and then I hit "Ctrl", "Shift", and "P" simultaneously. Then I typed in "Terminal: Select Default Profile", which should produce different terminal options. I also clicked Git Bash.
 ![Image](https://github.com/DirectJava/cse15l-lab-reports/blob/main/Screenshot%20(39).png)
