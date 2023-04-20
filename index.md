@@ -36,7 +36,8 @@ Part III: Testing the program
    Step 1: Logging in
    First, I copied and pasted (or typed) this in to the terminal: `ssh cs15lsp23zz@ieng6.ucsd.edu. Then, I replaced the zz with the 2 letters in the account (if I have one, if not, follow this link: https://sdacs.ucsd.edu/~icc/index.php to form my new CSE 15L password).
    
-![image](https://user-images.githubusercontent.com/122843554/233445383-a8ae8a9f-58c4-4691-8bdb-260ee8bfe1fb.png)
+![image](https://user-images.githubusercontent.com/122843554/233446212-2e272af9-5246-404a-951e-cd465890b81a.png)
+
    Disclaimer: My account did not work witout the "-202" after the "ieng6" because the network system was not cooperating.
    
    Once I successfully logged in, this message displayed on my screen: The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established.
