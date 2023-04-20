@@ -3,17 +3,16 @@ CSE 15L First Timers Tutorial (Windows)
 Part I: Set Up VS Code (Skip this if you have VS Code Already)
 
   Step 1: Download java extension
-  In order to set up VS Code, I had to download java first in order to have VS Code working functionally while coding
-  Website: https://www.oracle.com/java/technologies/downloads/  
+  In order to set up VS Code, I had to download java first using this [link](https://www.oracle.com/java/technologies/downloads/) in order to have VS Code working functionally while coding  
   
-  ![Image](https://github.com/DirectJava/cse15l-lab-reports/blob/main/Screenshot%20(36).png)
-  
+  ![image](https://user-images.githubusercontent.com/122843554/233439809-3a92e6c5-3dcf-4931-bd4b-c30dc16b58a2.png)
+
   By the time I reached this page, I selected Java 20, then clicked on the "x64 Installer to download the extension. I went ahead and downloaded the latest version in order to get the best experience possible while programming.
   
   *Caution: Since I find it complicated to set up my computer to acommodate Java and I don't remember much what I done, I am unable to discuss what I did here. 
   
   Step 3: Download the VS Code
-  To download VS Code, I used this link https://code.visualstudio.com/Download. Then, I selected Windows because that's what I am currently using..
+  To download VS Code, I used this link https://code.visualstudio.com/Download. Then, I selected Windows because that's what I am currently using.
   
   ![Image](https://github.com/DirectJava/cse15l-lab-reports/blob/main/Screenshot%20(37).png)
   
@@ -35,7 +34,7 @@ Part II: Download Git into VS Code and Connecting
 Part III: Testing the program
  
    Step 1: Logging in
-   First, I copied and pasted (or typed) this in to the terminal: ssh cs15lsp23zz@ieng6.ucsd.edu. Then, I replaced the zz with the 2 letters in the account (if I have one, if not, follow this link: https://sdacs.ucsd.edu/~icc/index.php to form my new CSE 15L password).
+   First, I copied and pasted (or typed) this in to the terminal: `ssh cs15lsp23zz@ieng6.ucsd.edu. Then, I replaced the zz with the 2 letters in the account (if I have one, if not, follow this link: https://sdacs.ucsd.edu/~icc/index.php to form my new CSE 15L password).
    
    ![Image](https://github.com/DirectJava/cse15l-lab-reports/blob/main/Screenshot%20(40).png)
    Disclaimer: My account did not work witout the "-202" after the "ieng6" because the network system was not cooperating.
@@ -53,7 +52,7 @@ I clicked yes in order to continue the work space as it will shown in Step 2.
    Here is another example:
    ![Image](https://github.com/DirectJava/cse15l-lab-reports/blob/main/Screenshot%20(42).png)
    
-   Other functions such as ls <directory> or other ls functions, I was unable to get it work because I either did it wrong or I wasn't sure what the instructions were saying. 
+   I tried other functions such as ls <directory> or other ls functions, which is supposed to show all the files I have on hand (and including the ones in the root folder). However, I was unable to get it work because I either did it wrong or I wasn't sure what the instructions were saying. 
   
    Disclaimer: This instructions may not be perfect. If you are still struggling with any steps, be sure to contact Professor Joe Politz (jpolitz@ucsd.edu) or reach out to the TAs.
    
