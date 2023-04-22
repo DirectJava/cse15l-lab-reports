@@ -12,7 +12,7 @@ Part I: Set Up VS Code (Skip this if you have VS Code Already)
   *Caution: Since I find it complicated to set up my computer to acommodate Java and I don't remember much what I done, I am unable to discuss what I did here. 
   
   Step 3: Download the VS Code
-  To download VS Code, I used this link https://code.visualstudio.com/Download. Then, I selected Windows because that's what I am currently using.
+  To download VS Code, I used this [link](https://code.visualstudio.com/Download). Then, I selected Windows because that's what I am currently using.
   
  ![image](https://user-images.githubusercontent.com/122843554/233444850-aae3ff22-b1e3-4eb6-a472-0ee6747ec2a1.png)
   
@@ -22,19 +22,19 @@ Part I: Set Up VS Code (Skip this if you have VS Code Already)
 Part II: Download Git into VS Code and Connecting
   
   Step 1: Download Git
-  Using this link: https://gitforwindows.org/, I was able to download git for my VS Code and on the link, I managed to download the latest version of GIT.
+  Using this [link](https://gitforwindows.org/), I was able to download git for my VS Code and on the link, I managed to download the latest version of GIT.
 ![image](https://user-images.githubusercontent.com/122843554/233444954-bda8bbe9-c15e-46eb-9e8c-67bfd4cb0e1f.png)
 
   Step 2: I headed down to VS Code and then I hit "Ctrl", "Shift", and "P" simultaneously. Then I typed in "Terminal: Select Default Profile", which should produce different terminal options. I also clicked Git Bash.
 ![image](https://user-images.githubusercontent.com/122843554/233445225-1b377fce-bfa3-4e8c-a072-dd793a01c7b0.png)
   
-  For additional help, I followed this link: https://stackoverflow.com/a/50527994
+  For additional help, I followed this [link](https://stackoverflow.com/a/50527994)
   
 
 Part III: Testing the program
  
    Step 1: Logging in
-   First, I copied and pasted (or typed) this in to the terminal: `ssh cs15lsp23zz@ieng6.ucsd.edu. Then, I replaced the zz with the 2 letters in the account (if I have one, if not, follow this link: https://sdacs.ucsd.edu/~icc/index.php to form my new CSE 15L password).
+   First, I copied and pasted (or typed) this in to the terminal: `ssh cs15lsp23zz@ieng6.ucsd.edu. Then, I replaced the zz with the 2 letters in the account (if I have one, if not, follow this [link](https://sdacs.ucsd.edu/~icc/index.php) to form my new CSE 15L password).
    
 ![image](https://user-images.githubusercontent.com/122843554/233446212-2e272af9-5246-404a-951e-cd465890b81a.png)
 
